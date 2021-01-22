@@ -509,3 +509,19 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 065: Google Maps
+googlemaps:
+  Weight: 65
+  Prefix: https://www.google.com/maps/contrib/
+  Title: Google Maps
+  Icon:
+    Class: fas fa-map-marker-alt fa-fw
+
+# 066: Google Play
+googleplay:
+  Weight: 66
+  Template: https://play.google.com/store/apps/developer?id=%v
+  Title: Google Play
+  Icon:
+    Class: fab fa-google-play fa-fw
